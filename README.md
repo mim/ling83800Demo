@@ -6,6 +6,3 @@ Demonstration repository for lecture in LING 83800
  * Item 1
  * Item 2
  * Item 3
-
-This is a mistake
-
